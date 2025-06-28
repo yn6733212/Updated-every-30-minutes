@@ -1,7 +1,7 @@
 [
 
-  { "symbol": "^N225", "name": "נִיקֵיי הָיָפָּנִי", "type": "index", "target_path": "ivr2:/1/1/4/" },
-  { "symbol": "^GDAXI", "name": "דָקְס הָגֵרְמָנִי", "type": "index", "target_path": "ivr2:/1/1/5/" },
+  { "symbol": "^N225", "name": "נִיקֵיי הָיָפָּנִי", "type": "index", "target_path": "ivr2:/1/1/6/" },
+  { "symbol": "^GDAXI", "name": "דָקְס הָגֵרְמָנִי", "type": "index", "target_path": "ivr2:/1/1/7/" },
   { "symbol": "^VIX", "name": "הָבִקְס", "type": "index", "target_path": "ivr2:/1/1/8/" },
 
   { "symbol": "XLK", "name": "טֵכְנוֹלוֹגִיָה", "type": "sector", "target_path": "ivr2:/1/1/0/1/" },

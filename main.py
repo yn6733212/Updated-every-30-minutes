@@ -118,13 +118,13 @@ def create_text(asset, data):
     elif type_ == "sector":
         intro = f"סֵקְטוֹר {name} עוֹמֵד כָּעֵת על {current} {unit}."
     elif type_ == "stock_il":
-        intro = f"מֵנָיָת {name} נִסְחֵרֵת כָּעֵת בֵּשׁוֹבִי שֵׁל {current} {unit}."
+        intro = f"מֵנָיָת {name} נִסְחֵרֵת כָּעֵת בשווי שֵׁל {current} {unit}."
     elif type_ == "stock_us":
-        intro = f"מֵנָיָת {name} נִסְחֵרֵת כָּעֵת בֵּשׁוֹבִי שֵׁל {current} {unit}."
+        intro = f"מֵנָיָת {name} נִסְחֵרֵת כָּעֵת בשווי שֵׁל {current} {unit}."
     elif type_ == "crypto":
         intro = f"מָטְבֵּע {name} נסחר כָּעֵת בֵּשָׁעָר שֵׁל {current} דוֹלָר."
     elif type_ == "forex":
-        intro = f"{name} אֵחָד שָבֵה לֵ {current} שְקָלִים."
+        intro = f"{name} אֵחָד שווה לֵ {current} שְקָלִים."
     elif type_ == "commodity":
         intro = f"{name} נסחר כָּעֵת בֵּשָׁעָר של {current} דוֹלָר."
     else:

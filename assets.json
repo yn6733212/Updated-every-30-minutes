@@ -6,7 +6,7 @@
 
   { "symbol": "XLK", "name": "טֵכְנוֹלוֹגִיָה", "type": "sector", "target_path": "ivr2:/1/1/0/1/" },
   { "symbol": "XLV", "name": "בְּרִיאוּת", "type": "sector", "target_path": "ivr2:/1/1/0/2/" },
-  { "symbol": "XLF", "name": "פִינָנְסִים", "type": "sector", "target_path": "ivr2:/1/1/2/3/" },
+  { "symbol": "XLF", "name": "פִינָנְסִים", "type": "sector", "target_path": "ivr2:/1/1/0/3/" },
   { "symbol": "XLY", "name": "מוּצָרֵי צְרִיכָה מָחְזוֹרִיִים", "type": "sector", "target_path": "ivr2:/1/1/0/4/" },
   { "symbol": "XLP", "name": "מוּצָרֵי צְרִיכָה בְּסִיסִיִים", "type": "sector", "target_path": "ivr2:/1/1/0/5/" },
   { "symbol": "XLE", "name": "אֵנֵרְגִיה", "type": "sector", "target_path": "ivr2:/1/1/0/6/" },

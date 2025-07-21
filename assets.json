@@ -39,7 +39,8 @@
   { "symbol": "SKBN.TA", "name": "שִׁיכּוּן וּבִּנוּי", "type": "stock_il", "target_path": "ivr2:/1/2/1/23/" },
   { "symbol": "ASHG.TA", "name": "אַשְׁטְרוֹם קְבוּצָה", "type": "stock_il", "target_path": "ivr2:/1/2/1/24/" },
   { "symbol": "GVYM.TA", "name": "גַּב יָם", "type": "stock_il", "target_path": "ivr2:/1/2/1/25/" },
-
+  { "symbol": "TDRN.TA", "name": "תָדִירָן", "type": "stock_il", "target_path": "ivr2:/1/2/1/26/" },
+  
   { "symbol": "UBER", "name": "אוּבֵּר", "type": "stock_us", "target_path": "ivr2:/1/2/2/12/" },
   { "symbol": "ABNB", "name": "אֵיֶירְבִּנְבִּי", "type": "stock_us", "target_path": "ivr2:/1/2/2/13/" },
   { "symbol": "PYPL", "name": "פֵּייפָּאל", "type": "stock_us", "target_path": "ivr2:/1/2/2/14/" },
